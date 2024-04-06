@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ali-abdelrady-b2786524a" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-abdelrady-b2786524a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
   <a href = mailto:"aliabdelrady2k16@gmail.com" target="_blank">
