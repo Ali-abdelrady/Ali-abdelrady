@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I'm passionate about problem-solving and love diving into challenges with C++. I specialize in web development, particularly on the front end, leveraging HTML, CSS, and JavaScript to craft engaging user experiences. Additionally, I enjoy developing desktop applications using C# with .NET Framework. Let's connect and create some awesome projects together!</h2>
+<h2 align="left">I’m a React.js developer and a problem solver who thrives on continuous learning and improving. My front-end expertise in HTML, CSS, JavaScript, and React.js allows me to create dynamic, interactive web applications. Additionally, my skills in C++ and C# with .NET enable me to build solid desktop applications. I’m always eager to learn more and expand my capabilities, and I’m excited to collaborate on innovative projects.</h2>
 
 ###
 
@@ -36,6 +36,10 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="20" />
+  <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" height="40" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="40" alt="redux logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -45,6 +49,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="20" />
+    <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="40" alt="tailwind logo"  />
+  <img width="20" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" height="40" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="40" alt="git logo"  />
+  <img width="20" />
 </div>
 
 ###
